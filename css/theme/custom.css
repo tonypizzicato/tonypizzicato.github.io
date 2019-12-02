@@ -81,7 +81,7 @@ body {
 .reveal h2 {
   margin-bottom: 50px;
   font-size: 1em;
-  text-shadow: 3px 7px rgba(0, 0, 0, 0.2);
+  text-shadow: 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .reveal h3 {
@@ -125,7 +125,7 @@ body {
 .reveal strong {
   font-weight: 900;
   font-size: 1.8em;
-  text-shadow: 5px 10px rgba(0, 0, 0, 0.2);
+  text-shadow: 3px 7px rgba(0, 0, 0, 0.2);
 }
 
 .reveal b {
