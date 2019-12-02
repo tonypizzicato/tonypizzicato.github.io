@@ -100,8 +100,25 @@ body {
 /*********************************************
  * OTHER
  *********************************************/
+.columns {
+  display: flex;
+  align-items: center;
+}
+
+.columns img {
+  margin-left: 40px !important;
+}
+
 .center {
   text-align: center;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
 }
 
 .reveal p {
